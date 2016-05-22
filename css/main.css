@@ -1,0 +1,71 @@
+a{
+  color:inherit;
+}
+.navbar-default{
+  border-radius: 0;
+  border:none;
+}
+.center{
+  text-align: center;
+}
+header{
+  padding-bottom: 40px;
+}
+header .center{
+  padding:40px 40px 0px 40px;
+}
+/* Navigation **/
+nav ul{
+  padding: 0;
+  text-align: center;
+}
+nav li{
+  display:inline;
+  margin:10px;
+  font-size: 18px;
+}
+nav h1{
+  text-align: center;
+  padding:10px;
+  padding-bottom: 15px;
+}
+nav a:hover{
+  text-decoration: none;
+  color:black;
+}
+/** End Navigation **/
+section{
+  padding:100px;
+  background-color: lightgrey;
+}
+.brad{
+  border-radius: 7.5px;
+}
+.hometext{
+  font-size: 130%;
+  padding:2%;
+}
+/** Footer **/
+
+footer {
+    padding: 50px 0;
+    background-color: black;
+}
+
+footer p {
+    text-align: center;
+}
+
+footer p img {
+    width: 20px;
+}
+
+footer p:first-of-type {
+    color: white;
+    font-size: 150%;
+}
+
+footer p:last-of-type {
+    color: grey;
+}
+/** End Footer **/
