@@ -17,6 +17,7 @@ header .center{
 /* Navigation **/
 nav ul{
   padding: 0;
+  margin-top:15px;
   text-align: center;
 }
 nav li{
@@ -36,7 +37,7 @@ nav a:hover{
 /** End Navigation **/
 section{
   padding:100px;
-  background-color: lightgrey;
+  background-color: #F5F5F5;
 }
 .brad{
   border-radius: 7.5px;
@@ -48,8 +49,9 @@ section{
 /** Footer **/
 
 footer {
-    padding: 50px 0;
-    background-color: black;
+    padding: 20px 0;
+    padding-top: 25px;
+    background-color: #777;
 }
 
 footer p {
@@ -66,6 +68,6 @@ footer p:first-of-type {
 }
 
 footer p:last-of-type {
-    color: grey;
+    color: #b7b7b7;
 }
 /** End Footer **/
